@@ -1,5 +1,5 @@
-🌐Website URL: https://demo.prestashop.com
-✒️ Enviroment :
+## 🌐Website URL: https://demo.prestashop.com
+# ✒️ Enviroment :
 * Using Java 20 OpenJDK
 * Using Selenium 4
 * Using IntelliJ IDEA IDE to develop the solution
@@ -10,11 +10,12 @@
 * Allure Report
 * Reading test data from Excel Sheet.
 
-🔭 Project Scope:
+# 🔭 Project Scope:
   * The project involves developing and executing automated test scripts to validate the main functionality of the web GUI of an e-commerce website.
   * The goal is to ensure that the website is functioning as expected and providing a seamless user experience for customers,by applying E2E testing.
 
-🔬 Used Test Cases in this project :
+# 🔬 Used Test Cases in this project :
+
 ▶️Test Case 1: Verify registration with invalid data using Register_Using_Invalid_Data. ✅
 
 ▶️Test Case 2: Verify registration with valid data using Register_Using_Valid_Data. ✅
