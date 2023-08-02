@@ -9,6 +9,8 @@
 * Using Page Object Model as a Design Pattern
 * Allure Report
 * Reading test data from Excel Sheet.
+* TestNG.Xml file
+* Excel Sheet contain used data.
 
 ## 🔭 Project Scope:
   * The project involves developing and executing automated test scripts to validate the main functionality of the web GUI of an e-commerce website.
