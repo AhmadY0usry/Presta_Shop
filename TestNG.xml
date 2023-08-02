@@ -1,0 +1,45 @@
+<suite name="Suite1" parallel="false" >
+    <test name="Test Registeration" >
+        <classes>
+            <class name="Signup_Test_Cases.Register_Using_Invalid_Data" />
+            <class name="Signup_Test_Cases.Register_Using_Valid_Data" />
+            <class name="Signup_Test_Cases.Register_Using_Existing_Email" />
+        </classes>
+    </test>
+    <test name="Test Login" >
+        <classes>
+            <class name="Login_Test_Cases.Test_Valid_Login" />
+            <class name="Login_Test_Cases.Test_Invalid_Login" />
+        </classes>
+    </test>
+    <test name="Purchasing Process Tests" >
+        <classes>
+            <class name="Cart_Test_Cases.Test_AddToCart" />
+            <class name="Cart_Test_Cases.Test_WriteReview" />
+            <class name="Cart_Test_Cases.Test_RemoveProductFromCart" />
+            <class name="Cart_Test_Cases.Test_RegisterWhileCheckOut" />
+            <class name="Cart_Test_Cases.Test_RegisterBeforeCheckOut" />
+            <class name="Cart_Test_Cases.Test_LoginBeforeCheckOut" />
+        </classes>
+    </test>
+    <test name="Category Test" >
+        <classes>
+            <class name="Category_Test_Cases.Test_CategoryProducts" />
+        </classes>
+    </test>
+    <test name="Contact Us Test" >
+        <classes>
+            <class name="ContactUs_Test_Case.Test_ContactUs" />
+        </classes>
+    </test>
+    <test name="Search Test" >
+        <classes>
+            <class name="Search_Test_Cases.Test_Search" />
+        </classes>
+    </test>
+    <test name="Subscription Test" >
+        <classes>
+            <class name="Subscribe_Test_Cases.Test_Subscribe" />
+        </classes>
+    </test>
+</suite>
